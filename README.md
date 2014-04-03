@@ -2,12 +2,9 @@
 
 Author : Takylo
 Version : 0.1
-Website : https://www.team-torrent.com
 
 EasyStart is a tool allowing to begin all your Web projects simply and quickly with bootstrap or foundation. This tool and free, if you share this file please respect my work by leaving this copyright
 Good codage'
-
-TakyloVous pouvez accéder à vos projet depuis le tool
 
 -Changelog-
 
